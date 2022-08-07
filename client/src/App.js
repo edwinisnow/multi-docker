@@ -6,6 +6,7 @@ function App() {
   return (
     <Router>
       <div className="App">
+        <div>hello</div>
         <header className="App-header">
           <Link to="/">Home</Link>
           <Link to="/otherpage">OtherPage</Link>
